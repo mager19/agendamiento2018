@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Lato");
 body { font-family: "lato" !important; overflow-x: hidden; }
 
-header.header { background: url("/img/recurso3.jpg") no-repeat center center fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; height: 88vh; }
+header.header { background: url("../img/recurso3.jpg") no-repeat center center fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; height: 88vh; }
 
 header.header .header__content { padding-top: 3em; }
 
