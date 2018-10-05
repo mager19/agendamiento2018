@@ -79,3 +79,7 @@ footer { color: #676767; font-size: 0.9em; font-weight: 600; padding: 2em; text-
   .bar__item { padding: 5px; margin-bottom: 1em; }
   .modal-dialog { top: 5%; }
   .modal-dialog .modal__contenido h4 { text-align: center; } }
+
+@media screen and (max-width: 320px) { .boton { padding: 0.6em 1.4em; }
+  header.header .titulo h3 { font-size: 2.5em; }
+  .modal-dialog { top: 0%; } }
